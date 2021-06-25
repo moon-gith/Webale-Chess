@@ -1,5 +1,5 @@
 # Webale-Chess
-This was made with BlueJ and is recommended to run the program
+This was made with BlueJ and is recommended to run the program.
 The above layout is the initial position of the game pieces. 
  	The Sun can only move one step in any direction. The game ends when the Sun is captured by the other side.
  	The Chevron moves in an L shape: 2 steps in one direction then 1 step perpendicular to it. (Similar to the Knight in the normal chess.) It is the only piece that can skip over the other pieces.
