@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GamePiece
+comment1.params=gpName\ gameplayer\ reachEnd
+comment1.target=GamePiece(java.lang.String,\ GamePlayer,\ boolean)
+comment2.params=gpName
+comment2.target=void\ setGamePieceName(java.lang.String)
+comment3.params=gameplayer
+comment3.target=void\ setGamePlayer(GamePlayer)
+comment4.params=
+comment4.target=java.lang.String\ getGamePieceName()
+comment5.params=
+comment5.target=GamePlayer\ getGamePlayer()
+comment6.params=reachEnd
+comment6.target=void\ setReachEnd(boolean)
+comment7.params=
+comment7.target=boolean\ getReachEnd()
+numComments=8

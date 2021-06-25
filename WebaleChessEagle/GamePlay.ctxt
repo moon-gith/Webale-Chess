@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GamePlay
+comment1.params=
+comment1.target=GamePlay()
+comment10.params=
+comment10.target=int\ getNumTurn()
+comment2.params=
+comment2.target=void\ gameRestart()
+comment3.params=
+comment3.target=void\ gamePieceSet()
+comment4.params=gameslot
+comment4.target=boolean\ gameMove(GameSlot)
+comment5.params=gameslot
+comment5.target=boolean\ gameMoveable(GameSlot)
+comment6.params=type\ oldX\ oldY\ newX\ newY\ queue
+comment6.target=boolean\ canMove(java.lang.String,\ int,\ int,\ int,\ int,\ GamePiece)
+comment7.params=
+comment7.target=void\ gamepieceChange()
+comment8.params=
+comment8.target=java.lang.String\ getWinner()
+comment9.params=
+comment9.target=GamePlayer\ getGamePlayerTurn()
+numComments=11

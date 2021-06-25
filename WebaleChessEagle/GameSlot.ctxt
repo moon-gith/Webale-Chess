@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameSlot
+comment1.params=x\ y
+comment1.target=GameSlot(int,\ int)
+comment2.params=x\ y\ gamepiece
+comment2.target=GameSlot(int,\ int,\ GamePiece)
+comment3.params=gamepiece
+comment3.target=void\ setGamePiece(GamePiece)
+comment4.params=x
+comment4.target=void\ setX(int)
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=GamePiece\ getGamePiece()
+comment7.params=
+comment7.target=int\ getX()
+comment8.params=
+comment8.target=int\ getY()
+numComments=9
